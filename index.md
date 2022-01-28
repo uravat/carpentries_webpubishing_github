@@ -3,6 +3,8 @@ title: "Our Collab Homepage"
 author: "ur"
 ---
 
+{% include navigation.html %}
+
 # Building websites with GitHub
 
 ## Description
