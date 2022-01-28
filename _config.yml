@@ -2,3 +2,7 @@ theme: jekyll-theme-cayman
 description: "This research project develops training materials for reseachers 
 wanting to learn to build project websites in GitHub with GitHub Pages."
 email: "collaboratory@library.ucsb.edu"
+
+collections:
+  blogposts: 
+    output: true
