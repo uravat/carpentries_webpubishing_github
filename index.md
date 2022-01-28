@@ -22,4 +22,4 @@ This page was rendered at {{ site.time }} Author: {{ page.author }}
 
 Have any questions [Please contact us via email](mailto:{{ site.email }})
 
-{% includes footer.html %}
+{% include footer.html %}
