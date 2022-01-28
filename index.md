@@ -8,3 +8,5 @@ Add a new section ‘Description’ to file index.md and add some description.
     View the changes on the website.
 
 [About this website](about.md)
+
+[Go Home](index.md)
