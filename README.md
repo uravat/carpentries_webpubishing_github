@@ -22,7 +22,7 @@ are caused by two trailing spaces at the end of a line.
 
 ##    Another second level heading
 
-    Some text under that second level heading that includes an [link](https://carpentries.org/) and ~~strikethrough text~~ .
+Some text under that second level heading that includes an [link](https://carpentries.org/) and ~~strikethrough text~~ .
     
 ### A third level heading
 1. A numbered list
