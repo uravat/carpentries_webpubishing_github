@@ -1,2 +1,2 @@
-# carpentries_webpubishing_github
-Jan 28: 
+# carpentries webpublishing github
+**Jan 28:** workshop
