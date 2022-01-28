@@ -14,4 +14,4 @@ This page was rendered at {{ site.time }}
 
 Have any questions [Please contact us via email](email:{{ site.email }})
 
-[Go Home](index.md)
+
